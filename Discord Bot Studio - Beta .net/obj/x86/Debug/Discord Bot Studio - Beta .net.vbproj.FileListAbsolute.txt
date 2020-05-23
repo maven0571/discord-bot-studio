@@ -1,0 +1,35 @@
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.Form1.resources
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.Resources.resources
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta .net.vbproj.GenerateResource.Cache
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.exe
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.pdb
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.xml
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta.exe
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta.xml
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta.pdb
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Bunifu.Core.dll
+C:\Users\Furkan Demircan\documents\visual studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta.exe
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta.xml
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta.pdb
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.exe
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.pdb
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.xml
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Bunifu.Core.dll
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta .net.vbprojResolveAssemblyReference.cache
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.Form1.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.Resources.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord Bot Studio - Beta .net.vbproj.GenerateResource.Cache
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.acilis_ekrani.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.yeni_bot.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Discord Bot Studio - Beta.exe.config
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\FTeknoloji.dll
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.discord_js.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\bin\Debug\Setting.dll
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.bot_olustu_yada_davet_et.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.bot_davet_et.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.upload_date.resources
+C:\Users\Lokum BOT\Documents\Visual Studio 2010\Projects\Discord Bot Studio - Beta .net\Discord Bot Studio - Beta .net\obj\x86\Debug\Discord_Bot_Studio___Beta.hakkında.resources
