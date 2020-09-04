@@ -3,41 +3,16 @@ Imports System
 Imports System.IO.Compression
 Imports System.Environment
 Public Class yeni_bot
+    'Boş olan (fazla tıklamaktan) oluşan kod satırları temizlenmiştir.
     Dim template_bot As String = Application.StartupPath & "\kaynak\"
     Dim library_error As String
     Dim bot_konumu As String
     Dim inifile As New Setting.IniFile(Application.StartupPath & "\kaynak\setting.ini")
-    Dim images(10) As Bitmap
-    Dim pos As Integer = 0
-    Private Declare Function SHEmptyRecycleBin Lib "shell32.dll" Alias "SHEmptyRecycleBinA" (ByVal hWnd As Int32, ByVal pszRootPath As String, ByVal dwFlags As Int32) As Int32
-    Private Declare Function SHUpdateRecycleBinIcon Lib "shell32.dll" () As Int32
-
-    Private Const SHERB_NOCONFIRMATION = &H1
-
-    Private Const SHERB_NOPROGRESSUI = &H2
-
-    Private Const SHERB_NOSOUND = &H4
-
-    Private Sub EmptyRecycleBin()
-
-        SHEmptyRecycleBin(Me.Handle.ToInt32, vbNullString, SHERB_NOCONFIRMATION)
-
-        SHUpdateRecycleBinIcon()
-    End Sub
-
-
-    Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
-
-    End Sub
 
     Private Sub yeni_bot_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         My.Settings.Reload()
         My.Settings.Reload()
         My.Settings.bot_adi = inifile.ReadValue("Yeni BOT", "Bot Adı")
-    End Sub
-
-    Private Sub TextBox2_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox2.TextChanged
-
     End Sub
 
     Private Sub Label1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
