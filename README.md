@@ -4,5 +4,4 @@ Discord Bot Studio (Discord Bot Series) | (discord.js) bilgisi olmadan bot yapma
 # Lisans
 ```Bu yazılımın tüm hakları GPL lisansı altında korunmaktadır.```
 
-# Kaynak Kodları
-programın içinde neler kodlanmış ? , Nasıl yazılmış ? , Hangi Kaynaklar kullanılmış ? Gibi sorularının cevabını vermek için Programın Kaynak kodları paylaşılmıştır.
+©2020 maven#0571
